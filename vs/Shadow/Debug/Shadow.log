@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Meja.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(346,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(467,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(587,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(707,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(827,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(947,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(1067,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Shadow\Demo.cpp(1187,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Shadow.vcxproj -> C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Debug\Shadow.exe

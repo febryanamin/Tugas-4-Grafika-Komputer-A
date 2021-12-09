@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Meja.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(257,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(371,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(485,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(599,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(713,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(827,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(941,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Blending\Demo.cpp(1055,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Blending.vcxproj -> C:\Users\ahmad\source\repos\Tugas-4-Grafika-Komputer-A-master\vs\Debug\Blending.exe
